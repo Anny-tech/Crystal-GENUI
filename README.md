@@ -67,12 +67,6 @@ more than 10 % in distance.
 | Bond-count balance | Σ_cations m·CN = Σ_anions m·CN |
 | Site symmetry | every polyhedron is invariant under its centre's site-symmetry group |
 
-**Validation.** `tests/` reproduces VESTA's printed values for the Bi7 polyhedron in the reference
-screenshot (average bond length 5.4750 Å, distortion index 0.01124, ECoN 3.9737) and checks regular
-polyhedra, Shannon radii against the 1976 table, SrTiO3 (all sites Shannon-consistent, Pauling 1 and 2
-satisfied, Ti–O–Ti = 180°), CaTiO3 (Ti–O–Ti ≈ 156°, two O Wyckoff sites, GII 0.07 v.u.), BaTiO3 (Ti
-off-centring) and Bi2Se3 (outer Se cannot form a polyhedron).
-
 ## Structure sources
 
 | Spec | Source |
