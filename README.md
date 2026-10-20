@@ -1,4 +1,4 @@
-# crystal-genui
+# Crystal-GENUI
 
 VESTA-style coordination polyhedron analysis of DFT relaxed Materials Project structures, served
 as an **MCP server with an interactive 3D viewer** (an MCP App). Other generative-UI projects, such as
