@@ -187,7 +187,7 @@ colours, and a *white atoms* switch removes those too.
 * Below the canvas: the site-environment table, the analyses of every polyhedron type, the
   crystal-chemical checks, every polyhedron in the cell, CSV downloads, and recompute with other settings.
 
-### Claude Desktop / Claude Code (stdio)
+### If using Claude Desktop / Claude Code (stdio)
 
 ```json
 {
