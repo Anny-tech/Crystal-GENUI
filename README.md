@@ -2,7 +2,7 @@
 
 VESTA-style coordination polyhedron analysis of DFT relaxed Materials Project structures, served
 as an **MCP server with an interactive 3D viewer** (an MCP App). Other generative-UI projects, such as
-a phase-field simulation server, can consume its output over MCP through a versioned JSON contract.
+a separate atomistic simulation server, can consume its output over MCP through a versioned JSON contract.
 
 ```
 Materials Project ──► crystal-genui MCP server ──► 3D polyhedra viewer (MCP App, in the chat)
