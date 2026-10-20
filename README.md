@@ -12,7 +12,7 @@ Materials Project ──► crystal-genui MCP server ──► 3D polyhedra view
                   MCP host (Claude, …) ◄──────────────────────────┘
                          │
                          ▼
-                 phase-field MCP server (your collaborator's)
+                 Other MCP server (collaborator's)
 ```
 
 ## Workflow
